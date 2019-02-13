@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<webApiHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <versionUuid>82c0a050-4bcc-4bb6-b678-f207a311b3c0</versionUuid>
+    <webApi a:uuid="177e8c58-77cc-4d43-9166-e348fa082225" name="EMS_New_WebAPI">
+        <a:description></a:description>
+        <a:expression></a:expression>
+        <a:urlAlias>sqy7BA</a:urlAlias>
+        <a:httpMethod>GET</a:httpMethod>
+        <a:system>false</a:system>
+    </webApi>
+    <roleMap/>
+    <history>
+        <historyInfo versionUuid="82c0a050-4bcc-4bb6-b678-f207a311b3c0"/>
+    </history>
+</webApiHaul>

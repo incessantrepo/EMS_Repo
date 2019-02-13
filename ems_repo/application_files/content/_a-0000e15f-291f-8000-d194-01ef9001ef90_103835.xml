@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>_a-0000e15f-291f-8000-d194-01ef9001ef90_103783</versionUuid>
+    <versionUuid>_a-0000e15f-291f-8000-d194-01ef9001ef90_103839</versionUuid>
     <rule>
-        <name>EMS_GridFilters</name>
-        <uuid>_a-0001dda0-2f73-8000-aae2-01ef9001ef90_16242</uuid>
+        <name>EMS_GridFiltersTest</name>
+        <uuid>_a-0000e15f-291f-8000-d194-01ef9001ef90_103835</uuid>
         <description>Returns a rich text field representing the filters applied to a grid, along with a link for clearing them</description>
         <parentUuid>5dc87a26-e9e7-4449-b03a-da1a577e6c21</parentUuid>
         <visibility>
@@ -125,7 +125,9 @@
             <groups/>
         </role>
         <role inherit="true" allowForAll="false" name="administrators">
-            <users/>
+            <users>
+                <userUuid>shwetad</userUuid>
+            </users>
             <groups/>
         </role>
         <role inherit="false" allowForAll="false" name="denyReaders">
@@ -142,10 +144,6 @@
         </role>
     </roleMap>
     <history>
-        <historyInfo versionUuid="_a-0000e15f-291f-8000-d194-01ef9001ef90_71827"/>
-        <historyInfo versionUuid="_a-0000e15f-291f-8000-d194-01ef9001ef90_83021"/>
-        <historyInfo versionUuid="_a-0000e15f-291f-8000-d194-01ef9001ef90_92421"/>
-        <historyInfo versionUuid="_a-0000e15f-291f-8000-d194-01ef9001ef90_102997"/>
-        <historyInfo versionUuid="_a-0000e15f-291f-8000-d194-01ef9001ef90_103783"/>
+        <historyInfo versionUuid="_a-0000e15f-291f-8000-d194-01ef9001ef90_103839"/>
     </history>
 </contentHaul>

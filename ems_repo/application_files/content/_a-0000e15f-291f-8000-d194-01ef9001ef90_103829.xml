@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>_a-0000e15f-291f-8000-d194-01ef9001ef90_103828</versionUuid>
+    <versionUuid>_a-0000e15f-291f-8000-d194-01ef9001ef90_103833</versionUuid>
     <rule>
-        <name>EMS_FormatMultipleChild</name>
-        <uuid>_a-0001dda0-2f73-8000-aae2-01ef9001ef90_16232</uuid>
+        <name>EMS_FormatMultipleChild_test</name>
+        <uuid>_a-0000e15f-291f-8000-d194-01ef9001ef90_103829</uuid>
         <description>Tostring function for a multiple child field of a CDT, for reporting purposes</description>
         <parentUuid>5dc87a26-e9e7-4449-b03a-da1a577e6c21</parentUuid>
         <visibility>
@@ -63,7 +63,9 @@
             <groups/>
         </role>
         <role inherit="true" allowForAll="false" name="administrators">
-            <users/>
+            <users>
+                <userUuid>shwetad</userUuid>
+            </users>
             <groups/>
         </role>
         <role inherit="false" allowForAll="false" name="denyReaders">
@@ -80,10 +82,6 @@
         </role>
     </roleMap>
     <history>
-        <historyInfo versionUuid="_a-0000e15f-291f-8000-d194-01ef9001ef90_71787"/>
-        <historyInfo versionUuid="_a-0000e15f-291f-8000-d194-01ef9001ef90_82978"/>
-        <historyInfo versionUuid="_a-0000e15f-291f-8000-d194-01ef9001ef90_92375"/>
-        <historyInfo versionUuid="_a-0000e15f-291f-8000-d194-01ef9001ef90_102950"/>
-        <historyInfo versionUuid="_a-0000e15f-291f-8000-d194-01ef9001ef90_103828"/>
+        <historyInfo versionUuid="_a-0000e15f-291f-8000-d194-01ef9001ef90_103833"/>
     </history>
 </contentHaul>
