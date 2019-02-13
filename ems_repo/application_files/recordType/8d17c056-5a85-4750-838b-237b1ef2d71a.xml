@@ -220,10 +220,10 @@
       <a:visibilityExpr>=true()</a:visibilityExpr>
       <a:urlStub>summary</a:urlStub>
       <a:headerExpr/>
-      <a:relatedActionCfg>4adc04c2-5be0-4f7f-8858-607a953bfc91</a:relatedActionCfg>
-      <a:relatedActionCfg>4cc56821-6c80-4171-8338-6ca8e99d1b06</a:relatedActionCfg>
-      <a:relatedActionCfg>0031fc45-ee2e-4186-b806-9ccc38d2c819</a:relatedActionCfg>
-      <a:relatedActionCfg>d5e17087-8004-400d-8aca-7f61576c1634</a:relatedActionCfg>
+      <a:relatedActionCfg>4b3aaf23-d5e7-4c42-be93-2d4f73b7f07c</a:relatedActionCfg>
+      <a:relatedActionCfg>62d16caa-7aca-4882-9ee6-f9c3b0d51cea</a:relatedActionCfg>
+      <a:relatedActionCfg>542e4fcb-7107-4314-81af-e262e4e7da56</a:relatedActionCfg>
+      <a:relatedActionCfg>3319cd8c-ad61-468d-9f12-33dcec40ab8d</a:relatedActionCfg>
     </a:detailViewCfg>
     <a:detailViewCfg>
       <a:nameExpr>"Activity History"</a:nameExpr>
@@ -231,9 +231,9 @@
       <a:visibilityExpr>=true()</a:visibilityExpr>
       <a:urlStub>_WnXJTw</a:urlStub>
       <a:headerExpr/>
-      <a:relatedActionCfg>4adc04c2-5be0-4f7f-8858-607a953bfc91</a:relatedActionCfg>
-      <a:relatedActionCfg>4cc56821-6c80-4171-8338-6ca8e99d1b06</a:relatedActionCfg>
-      <a:relatedActionCfg>0031fc45-ee2e-4186-b806-9ccc38d2c819</a:relatedActionCfg>
+      <a:relatedActionCfg>4b3aaf23-d5e7-4c42-be93-2d4f73b7f07c</a:relatedActionCfg>
+      <a:relatedActionCfg>62d16caa-7aca-4882-9ee6-f9c3b0d51cea</a:relatedActionCfg>
+      <a:relatedActionCfg>542e4fcb-7107-4314-81af-e262e4e7da56</a:relatedActionCfg>
     </a:detailViewCfg>
     <a:relatedActionCfg>
       <a:target a:uuid="46ef3b4d-2d90-42f4-8092-bf3ed6e6b979" xsi:type="a:ProcessModel"/>
@@ -246,7 +246,7 @@
 )</a:contextExpr>
       <a:visibilityExpr>=true()</a:visibilityExpr>
       <a:iconId>f0e7</a:iconId>
-      <a:refId>4adc04c2-5be0-4f7f-8858-607a953bfc91</a:refId>
+      <a:refId>4b3aaf23-d5e7-4c42-be93-2d4f73b7f07c</a:refId>
       <a:titleSource>DERIVED</a:titleSource>
       <a:descriptionSource>DERIVED</a:descriptionSource>
     </a:relatedActionCfg>
@@ -257,7 +257,7 @@
 }</a:contextExpr>
       <a:visibilityExpr>=true()</a:visibilityExpr>
       <a:iconId>f0e7</a:iconId>
-      <a:refId>4cc56821-6c80-4171-8338-6ca8e99d1b06</a:refId>
+      <a:refId>62d16caa-7aca-4882-9ee6-f9c3b0d51cea</a:refId>
       <a:titleSource>DERIVED</a:titleSource>
       <a:descriptionSource>DERIVED</a:descriptionSource>
     </a:relatedActionCfg>
@@ -268,7 +268,7 @@
 }</a:contextExpr>
       <a:visibilityExpr>=true()</a:visibilityExpr>
       <a:iconId>f0e7</a:iconId>
-      <a:refId>0031fc45-ee2e-4186-b806-9ccc38d2c819</a:refId>
+      <a:refId>542e4fcb-7107-4314-81af-e262e4e7da56</a:refId>
       <a:titleSource>DERIVED</a:titleSource>
       <a:descriptionSource>DERIVED</a:descriptionSource>
     </a:relatedActionCfg>
@@ -279,7 +279,7 @@
 }</a:contextExpr>
       <a:visibilityExpr>=true()</a:visibilityExpr>
       <a:iconId>f0e7</a:iconId>
-      <a:refId>d5e17087-8004-400d-8aca-7f61576c1634</a:refId>
+      <a:refId>3319cd8c-ad61-468d-9f12-33dcec40ab8d</a:refId>
       <a:titleSource>DERIVED</a:titleSource>
       <a:descriptionSource>DERIVED</a:descriptionSource>
     </a:relatedActionCfg>
