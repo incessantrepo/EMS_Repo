@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>_a-0000e15f-291f-8000-d194-01ef9001ef90_103976</versionUuid>
+    <versionUuid>_a-0000e15f-291f-8000-d194-01ef9001ef90_104351</versionUuid>
     <rule>
         <name>EMS_testRule</name>
         <uuid>_a-0000e15f-291f-8000-d194-01ef9001ef90_103204</uuid>
@@ -15,7 +15,7 @@
             <system>false</system>
             <unlogged>false</unlogged>
         </visibility>
-        <definition>"Test Rule new"</definition>
+        <definition>"Test Rule new   "</definition>
         <preferredEditor>legacy</preferredEditor>
         <offlineEnabled>false</offlineEnabled>
     </rule>
@@ -50,5 +50,6 @@
         <historyInfo versionUuid="_a-0000e15f-291f-8000-d194-01ef9001ef90_103308"/>
         <historyInfo versionUuid="_a-0000e15f-291f-8000-d194-01ef9001ef90_103739"/>
         <historyInfo versionUuid="_a-0000e15f-291f-8000-d194-01ef9001ef90_103976"/>
+        <historyInfo versionUuid="_a-0000e15f-291f-8000-d194-01ef9001ef90_104351"/>
     </history>
 </contentHaul>
